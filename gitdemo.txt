@@ -1,0 +1,226 @@
+{
+    "typeName": "assetList",
+    "items": [
+        {
+            "typeName": "items",
+            "asset": {
+                "ownerOid": 4296132028,
+                "tags": [
+                    {
+                        "typeName": "tag",
+                        "name": "cobrand_price_group",
+                        "value": {
+                            "priceEntry": [
+                                {
+                                    "price": {
+                                        "price": 0,
+                                        "typeName": "tagValueRateSimplePrice"
+                                    },
+                                    "typeName": "priceEntry",
+                                    "cobrand": "snapfishuk",
+                                    "mrchOid": 16350
+                                }
+                            ],
+                            "typeName": "tagValueCobrandPriceGroup"
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "is_discountable",
+                        "value": {
+                            "typeName": "tagValueContent",
+                            "stringValue": "Y"
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "zero_price",
+                        "value": {
+                            "typeName": "tagValueContent",
+                            "stringValue": "N"
+                        }
+                    }
+                ],
+                "modifiedDate": 1360656000000,
+                "typeName": "asset",
+                "createDate": 1360656000000,
+                "uuid": "93f5374cec6d4ad9aff656804194a687",
+                "acl": {
+                    "typeName": "acl",
+                    "statements": [
+                        {
+                            "token": "*",
+                            "typeName": "aclStatement",
+                            "realm": "website",
+                            "accept": "true"
+                        }
+                    ]
+                },
+                "type": "PREMIUM_CATEGORY"
+            },
+            "canonicalItem": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/93f5374cec6d4ad9aff656804194a687"
+        },
+        {
+            "typeName": "items",
+            "asset": {
+                "ownerOid": 4296132028,
+                "tags": [],
+                "modifiedDate": 1360656000000,
+                "typeName": "asset",
+                "createDate": 1360656000000,
+                "uuid": "baf4b2b287c14632b01aa4a23028b9fa",
+                "acl": {
+                    "typeName": "acl",
+                    "statements": [
+                        {
+                            "token": "*",
+                            "typeName": "aclStatement",
+                            "realm": "website",
+                            "accept": "true"
+                        }
+                    ]
+                },
+                "children": [
+                    {
+                        "typeName": "childEntry",
+                        "uuid": "44a962006e39439b839d74acd2163336",
+                        "type": "DESIGN",
+                        "child": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/44a962006e39439b839d74acd2163336"
+                    },
+                    {
+                        "typeName": "childEntry",
+                        "uuid": "47f5239c0e3a4366a18bb10525ed4364",
+                        "type": "DESIGN",
+                        "child": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/47f5239c0e3a4366a18bb10525ed4364"
+                    },
+                    {
+                        "typeName": "childEntry",
+                        "uuid": "4eaf2dc0edc9454fbb65935bab27578e",
+                        "type": "DESIGN",
+                        "child": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/4eaf2dc0edc9454fbb65935bab27578e"
+                    },
+                    {
+                        "typeName": "childEntry",
+                        "uuid": "dabccd4ddfde4894b7154247262191c2",
+                        "type": "DESIGN",
+                        "child": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/dabccd4ddfde4894b7154247262191c2"
+                    }
+                ],
+                "type": "CARDS_BACK_PAGE"
+            },
+            "canonicalItem": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/baf4b2b287c14632b01aa4a23028b9fa"
+        },
+        {
+            "typeName": "items",
+            "asset": {
+                "ownerOid": 4296132028,
+                "tags": [],
+                "modifiedDate": 1360656000000,
+                "typeName": "asset",
+                "createDate": 1360656000000,
+                "uuid": "f400f750eeaf4d93ba9d3d26ca95115f",
+                "acl": {
+                    "typeName": "acl",
+                    "statements": [
+                        {
+                            "token": "*",
+                            "typeName": "aclStatement",
+                            "realm": "website",
+                            "accept": "true"
+                        }
+                    ]
+                },
+                "children": [
+                    {
+                        "typeName": "childEntry",
+                        "uuid": "691fc7a6385433d83cd17e2a0a33e72",
+                        "type": "CARDS_SPREAD",
+                        "child": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/691fc7a6385433d83cd17e2a0a33e72"
+                    },
+                    {
+                        "typeName": "childEntry",
+                        "uuid": "88a9b0120bae46b3b16020549ca120c7",
+                        "type": "CARDS_SPREAD",
+                        "child": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/88a9b0120bae46b3b16020549ca120c7"
+                    },
+                    {
+                        "typeName": "childEntry",
+                        "uuid": "28bda65e4bc4bb2a31ee43d7131441b",
+                        "type": "CARDS_SPREAD",
+                        "child": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/28bda65e4bc4bb2a31ee43d7131441b"
+                    },
+                    {
+                        "typeName": "childEntry",
+                        "uuid": "c87d9e35060d4874946777da8ae758e4",
+                        "type": "CARDS_SPREAD",
+                        "child": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/c87d9e35060d4874946777da8ae758e4"
+                    },
+                    {
+                        "typeName": "childEntry",
+                        "uuid": "4ec5c8847a0a49e18c635087683c273a",
+                        "type": "CARDS_SPREAD",
+                        "child": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/4ec5c8847a0a49e18c635087683c273a"
+                    },
+                    {
+                        "typeName": "childEntry",
+                        "uuid": "e368f7d8c5b24a8c9fde1c7c7c96c63a",
+                        "type": "CARDS_SPREAD",
+                        "child": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/e368f7d8c5b24a8c9fde1c7c7c96c63a"
+                    },
+                    {
+                        "typeName": "childEntry",
+                        "uuid": "249ecd563654bb38d78ee10506f43ec",
+                        "type": "CARDS_SPREAD",
+                        "child": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/249ecd563654bb38d78ee10506f43ec"
+                    },
+                    {
+                        "typeName": "childEntry",
+                        "uuid": "81d6be61a43e49e0888ebd332379b627",
+                        "type": "CARDS_SPREAD",
+                        "child": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/81d6be61a43e49e0888ebd332379b627"
+                    }
+                ],
+                "type": "CARDS_INSIDE_PAGE"
+            },
+            "canonicalItem": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/f400f750eeaf4d93ba9d3d26ca95115f"
+        },
+        {
+            "typeName": "items",
+            "asset": {
+                "ownerOid": 4296132028,
+                "tags": [],
+                "modifiedDate": 1360656000000,
+                "typeName": "asset",
+                "createDate": 1360656000000,
+                "uuid": "fefd8b44bb41db80cf617757b923ed",
+                "acl": {
+                    "typeName": "acl",
+                    "statements": [
+                        {
+                            "token": "*",
+                            "typeName": "aclStatement",
+                            "realm": "website",
+                            "accept": "true"
+                        }
+                    ]
+                },
+                "children": [
+                    {
+                        "typeName": "childEntry",
+                        "uuid": "bf0ef6c4968d4874bd98295f2080b9d0",
+                        "type": "DESIGN",
+                        "child": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/bf0ef6c4968d4874bd98295f2080b9d0"
+                    },
+                    {
+                        "typeName": "childEntry",
+                        "uuid": "38729aa367f42b297637aa9f9efe3b5",
+                        "type": "DESIGN",
+                        "child": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/38729aa367f42b297637aa9f9efe3b5"
+                    }
+                ],
+                "type": "CARDS_FRONT_PAGE"
+            },
+            "canonicalItem": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/fefd8b44bb41db80cf617757b923ed"
+        }
+    ]
+}
