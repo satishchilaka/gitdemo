@@ -222,5 +222,5 @@
             },
             "canonicalItem": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/fefd8b44bb41db80cf617757b923ed"
         }
-    
+    ]
 }
