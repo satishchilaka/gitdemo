@@ -1,0 +1,845 @@
+{
+    "typeName": "assetList",
+    "items": [
+        {
+            "typeName": "items",
+            "asset": {
+                "ownerOid": 3222435028,
+                "tags": [
+                    {
+                        "typeName": "tag",
+                        "name": "allowed_cobrands",
+                        "value": {
+                            "typeName": "tagValueList",
+                            "items": []
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "allowed_mrch_oids",
+                        "value": {
+                            "typeName": "tagValueList",
+                            "items": [
+                                {
+                                    "longValue": 16359,
+                                    "typeName": "tagValueContent"
+                                },
+                                {
+                                    "longValue": 16356,
+                                    "typeName": "tagValueContent"
+                                },
+                                {
+                                    "longValue": 16355,
+                                    "typeName": "tagValueContent"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "allowed_websites",
+                        "value": {
+                            "typeName": "tagValueList",
+                            "items": [
+                                {
+                                    "typeName": "tagValueContent",
+                                    "stringValue": "clark_us"
+                                },
+                                {
+                                    "typeName": "tagValueContent",
+                                    "stringValue": "york_us"
+                                },
+                                {
+                                    "typeName": "tagValueContent",
+                                    "stringValue": "snapfish_us"
+                                },
+                                {
+                                    "typeName": "tagValueContent",
+                                    "stringValue": "snapfish_uk"
+                                },
+                                {
+                                    "typeName": "tagValueContent",
+                                    "stringValue": "snapfish_nz"
+                                },
+                                {
+                                    "typeName": "tagValueContent",
+                                    "stringValue": "snapfish_au"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "description",
+                        "value": {
+                            "typeName": "tagValueContent",
+                            "translatedStringValue": {
+                                "typeName": "translatedString",
+                                "translation": [
+                                    {
+                                        "typeName": "translation",
+                                        "locale": "en_US",
+                                        "value": ""
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "facet_card_purpose_sep_cards_sep_snapfish_au",
+                        "value": {
+                            "typeName": "tagValueList",
+                            "items": [
+                                {
+                                    "typeName": "tagValueContent",
+                                    "stringValue": "cp_thank_you"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "facet_card_purpose_sep_cards_sep_snapfish_nz",
+                        "value": {
+                            "typeName": "tagValueList",
+                            "items": [
+                                {
+                                    "typeName": "tagValueContent",
+                                    "stringValue": "cp_thank_you"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "facet_card_purpose_sep_cards_sep_snapfish_uk",
+                        "value": {
+                            "typeName": "tagValueList",
+                            "items": [
+                                {
+                                    "typeName": "tagValueContent",
+                                    "stringValue": "cp_thank_you"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "facet_card_purpose_sep_cards_sep_snapfish_us",
+                        "value": {
+                            "typeName": "tagValueList",
+                            "items": [
+                                {
+                                    "typeName": "tagValueContent",
+                                    "stringValue": "cp_thank_you"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "facet_design_style_sep_cards_sep_snapfish_au",
+                        "value": {
+                            "typeName": "tagValueList",
+                            "items": [
+                                {
+                                    "typeName": "tagValueContent",
+                                    "stringValue": "ds_casual"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "facet_design_style_sep_cards_sep_snapfish_nz",
+                        "value": {
+                            "typeName": "tagValueList",
+                            "items": [
+                                {
+                                    "typeName": "tagValueContent",
+                                    "stringValue": "ds_casual"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "facet_design_style_sep_cards_sep_snapfish_uk",
+                        "value": {
+                            "typeName": "tagValueList",
+                            "items": [
+                                {
+                                    "typeName": "tagValueContent",
+                                    "stringValue": "ds_casual"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "facet_design_style_sep_cards_sep_snapfish_us",
+                        "value": {
+                            "typeName": "tagValueList",
+                            "items": [
+                                {
+                                    "typeName": "tagValueContent",
+                                    "stringValue": "ds_casual"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "facet_language_sep_cards_sep_snapfish_au",
+                        "value": {
+                            "typeName": "tagValueList",
+                            "items": [
+                                {
+                                    "typeName": "tagValueContent",
+                                    "stringValue": "la_english_us"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "facet_language_sep_cards_sep_snapfish_nz",
+                        "value": {
+                            "typeName": "tagValueList",
+                            "items": [
+                                {
+                                    "typeName": "tagValueContent",
+                                    "stringValue": "la_english_us"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "facet_language_sep_cards_sep_snapfish_uk",
+                        "value": {
+                            "typeName": "tagValueList",
+                            "items": [
+                                {
+                                    "typeName": "tagValueContent",
+                                    "stringValue": "la_english_us"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "facet_language_sep_cards_sep_snapfish_us",
+                        "value": {
+                            "typeName": "tagValueList",
+                            "items": [
+                                {
+                                    "typeName": "tagValueContent",
+                                    "stringValue": "la_english_us"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "is_customizable",
+                        "value": {
+                            "typeName": "tagValueContent",
+                            "stringValue": "Y"
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "is_featured",
+                        "value": {
+                            "typeName": "tagValueContent",
+                            "stringValue": "N"
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "is_print2retail_supported",
+                        "value": {
+                            "typeName": "tagValueContent",
+                            "stringValue": "Y"
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "keywords",
+                        "value": {
+                            "typeName": "tagValueList",
+                            "items": [
+                                {
+                                    "typeName": "tagValueContent",
+                                    "translatedStringValue": {
+                                        "typeName": "translatedString",
+                                        "translation": [
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_US",
+                                                "value": "thank you"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_GB",
+                                                "value": "thank you"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_NZ",
+                                                "value": "thank you"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_AU",
+                                                "value": "thank you"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "typeName": "tagValueContent",
+                                    "translatedStringValue": {
+                                        "typeName": "translatedString",
+                                        "translation": [
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_US",
+                                                "value": " wedding"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_GB",
+                                                "value": " wedding"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_NZ",
+                                                "value": " wedding"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_AU",
+                                                "value": " wedding"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "typeName": "tagValueContent",
+                                    "translatedStringValue": {
+                                        "typeName": "translatedString",
+                                        "translation": [
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_US",
+                                                "value": " thanks"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_GB",
+                                                "value": " thanks"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_NZ",
+                                                "value": " thanks"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_AU",
+                                                "value": " thanks"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "typeName": "tagValueContent",
+                                    "translatedStringValue": {
+                                        "typeName": "translatedString",
+                                        "translation": [
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_US",
+                                                "value": " thank you photo cards"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_GB",
+                                                "value": " thank you photo cards"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_NZ",
+                                                "value": " thank you photo cards"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_AU",
+                                                "value": " thank you photo cards"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "typeName": "tagValueContent",
+                                    "translatedStringValue": {
+                                        "typeName": "translatedString",
+                                        "translation": [
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_US",
+                                                "value": " shower"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_GB",
+                                                "value": " shower"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_NZ",
+                                                "value": " shower"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_AU",
+                                                "value": " shower"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "typeName": "tagValueContent",
+                                    "translatedStringValue": {
+                                        "typeName": "translatedString",
+                                        "translation": [
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_US",
+                                                "value": " photo cards"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_GB",
+                                                "value": " photo cards"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_NZ",
+                                                "value": " photo cards"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_AU",
+                                                "value": " photo cards"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "typeName": "tagValueContent",
+                                    "translatedStringValue": {
+                                        "typeName": "translatedString",
+                                        "translation": [
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_US",
+                                                "value": " photo"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_GB",
+                                                "value": " photo"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_NZ",
+                                                "value": " photo"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_AU",
+                                                "value": " photo"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "typeName": "tagValueContent",
+                                    "translatedStringValue": {
+                                        "typeName": "translatedString",
+                                        "translation": [
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_US",
+                                                "value": " party"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_GB",
+                                                "value": " party"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_NZ",
+                                                "value": " party"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_AU",
+                                                "value": " party"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "typeName": "tagValueContent",
+                                    "translatedStringValue": {
+                                        "typeName": "translatedString",
+                                        "translation": [
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_US",
+                                                "value": " graduation"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_GB",
+                                                "value": " graduation"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_NZ",
+                                                "value": " graduation"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_AU",
+                                                "value": " graduation"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "typeName": "tagValueContent",
+                                    "translatedStringValue": {
+                                        "typeName": "translatedString",
+                                        "translation": [
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_US",
+                                                "value": " girl"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_GB",
+                                                "value": " girl"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_NZ",
+                                                "value": " girl"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_AU",
+                                                "value": " girl"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "typeName": "tagValueContent",
+                                    "translatedStringValue": {
+                                        "typeName": "translatedString",
+                                        "translation": [
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_US",
+                                                "value": " boy"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_GB",
+                                                "value": " boy"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_NZ",
+                                                "value": " boy"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_AU",
+                                                "value": " boy"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "typeName": "tagValueContent",
+                                    "translatedStringValue": {
+                                        "typeName": "translatedString",
+                                        "translation": [
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_US",
+                                                "value": " birthday"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_GB",
+                                                "value": " birthday"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_NZ",
+                                                "value": " birthday"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_AU",
+                                                "value": " birthday"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "typeName": "tagValueContent",
+                                    "translatedStringValue": {
+                                        "typeName": "translatedString",
+                                        "translation": [
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_US",
+                                                "value": " baby"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_GB",
+                                                "value": " baby"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_NZ",
+                                                "value": " baby"
+                                            },
+                                            {
+                                                "typeName": "translation",
+                                                "locale": "en_AU",
+                                                "value": " baby"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "max_photos",
+                        "value": {
+                            "typeName": "tagValueList",
+                            "items": [
+                                {
+                                    "typeName": "tagValuePair",
+                                    "left": {
+                                        "typeName": "tagValueContent",
+                                        "stringValue": "26c48bae079943ac9d75d18a4a7d1533"
+                                    },
+                                    "right": {
+                                        "longValue": 4,
+                                        "typeName": "tagValueContent"
+                                    }
+                                },
+                                {
+                                    "typeName": "tagValuePair",
+                                    "left": {
+                                        "typeName": "tagValueContent",
+                                        "stringValue": "10874deefa3740e2be7490479da054e0"
+                                    },
+                                    "right": {
+                                        "longValue": 4,
+                                        "typeName": "tagValueContent"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "min_photos",
+                        "value": {
+                            "typeName": "tagValueList",
+                            "items": [
+                                {
+                                    "typeName": "tagValuePair",
+                                    "left": {
+                                        "typeName": "tagValueContent",
+                                        "stringValue": "26c48bae079943ac9d75d18a4a7d1533"
+                                    },
+                                    "right": {
+                                        "longValue": 4,
+                                        "typeName": "tagValueContent"
+                                    }
+                                },
+                                {
+                                    "typeName": "tagValuePair",
+                                    "left": {
+                                        "typeName": "tagValueContent",
+                                        "stringValue": "10874deefa3740e2be7490479da054e0"
+                                    },
+                                    "right": {
+                                        "longValue": 4,
+                                        "typeName": "tagValueContent"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "name",
+                        "value": {
+                            "typeName": "tagValueContent",
+                            "translatedStringValue": {
+                                "typeName": "translatedString",
+                                "translation": [
+                                    {
+                                        "typeName": "translation",
+                                        "locale": "en_US",
+                                        "value": "Linen Collage - Thank You"
+                                    },
+                                    {
+                                        "typeName": "translation",
+                                        "locale": "en_GB",
+                                        "value": "Linen Collage - Thank You"
+                                    },
+                                    {
+                                        "typeName": "translation",
+                                        "locale": "en_NZ",
+                                        "value": "Linen Collage - Thank You"
+                                    },
+                                    {
+                                        "typeName": "translation",
+                                        "locale": "en_AU",
+                                        "value": "Linen Collage - Thank You"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "published_date",
+                        "value": {
+                            "longValue": 1328792052561,
+                            "typeName": "tagValueContent"
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "rules",
+                        "value": {
+                            "typeName": "tagValueList",
+                            "items": [
+                                {
+                                    "typeName": "tagValueContent",
+                                    "stringValue": "10874deefa3740e2be7490479da054e0"
+                                },
+                                {
+                                    "typeName": "tagValueContent",
+                                    "stringValue": "26c48bae079943ac9d75d18a4a7d1533"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "typeName": "tag",
+                        "name": "state",
+                        "value": {
+                            "typeName": "tagValueContent",
+                            "stringValue": "LIVE"
+                        }
+                    }
+                ],
+                "modifiedDate": 1330416000000,
+                "typeName": "asset",
+                "createDate": 1328774400000,
+                "uuid": "6833d27c389a43cf95ddf693bfddb17d",
+                "acl": {
+                    "typeName": "acl",
+                    "statements": [
+                        {
+                            "token": "snapfish_au",
+                            "typeName": "aclStatement",
+                            "realm": "website",
+                            "accept": "true"
+                        },
+                        {
+                            "token": "york_us",
+                            "typeName": "aclStatement",
+                            "realm": "website",
+                            "accept": "true"
+                        },
+                        {
+                            "token": "snapfish_us",
+                            "typeName": "aclStatement",
+                            "realm": "website",
+                            "accept": "true"
+                        },
+                        {
+                            "token": "snapfish_nz",
+                            "typeName": "aclStatement",
+                            "realm": "website",
+                            "accept": "true"
+                        },
+                        {
+                            "token": "snapfish_uk",
+                            "typeName": "aclStatement",
+                            "realm": "website",
+                            "accept": "true"
+                        },
+                        {
+                            "token": "clark_us",
+                            "typeName": "aclStatement",
+                            "realm": "website",
+                            "accept": "true"
+                        },
+                        {
+                            "token": "*",
+                            "typeName": "aclStatement",
+                            "realm": "website",
+                            "accept": "false"
+                        }
+                    ]
+                },
+                "children": [
+                    {
+                        "typeName": "childEntry",
+                        "uuid": "60ef29d3d6a947a28c7fb0ed276bd7e5",
+                        "type": "PREMIUM_CATEGORY",
+                        "child": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/60ef29d3d6a947a28c7fb0ed276bd7e5"
+                    },
+                    {
+                        "typeName": "childEntry",
+                        "uuid": "b837af7466e941cbbcbf2a4f86b8101a",
+                        "type": "CARDS_FRONT_PAGE",
+                        "child": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/b837af7466e941cbbcbf2a4f86b8101a"
+                    },
+                    {
+                        "typeName": "childEntry",
+                        "uuid": "bb05fa694883429bba33eb4dac6431c8",
+                        "type": "CARDS_BACK_PAGE",
+                        "child": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/bb05fa694883429bba33eb4dac6431c8"
+                    }
+                ],
+                "type": "DESIGN_GROUP"
+            },
+            "canonicalItem": "/ropac/static/website/snapfish_us/cobrand/snapfish/asset/6833d27c389a43cf95ddf693bfddb17d"
+        }
+    ]
+}
